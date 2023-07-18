@@ -18047,7 +18047,7 @@ export const dataAffiliateStat = [
       city: "Sangoleng",
       state: null,
       country: "ID",
-      occupation: "Pharmacist",
+      occupation: "Community Manager",
       phoneNumber: "7036619983",
       transactions: [
         "63701d74f03239d81e000027",

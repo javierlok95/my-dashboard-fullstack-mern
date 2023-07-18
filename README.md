@@ -1,9 +1,9 @@
 # **Project Title**
-## My Dashboard-Fullstack(MERN)
+## [My Dashboard-Fullstack(MERN)](https://admin-frontend-v6dm.onrender.com/dashboard)
 ---
 ### **Table of Contents**
 - [Description](#description)
-- [Framework/Languages Used](#frameworklanguages-used)
+- [Framework/Languages/Tools Used](#frameworklanguages-used)
 - [How to Use](#how-to-use)
 - [Author Info](#author-info)
 
@@ -32,7 +32,7 @@ This project is fully functional to some extend but visually appealing with an i
 
 ## 3. ERD Diagram and Data Modeling
 
-https://lucid.app/lucidchart/6396f511-1d3f-4eaf-beca-7e79b3a72b67/edit?viewport_loc=-926%2C-1923%2C2519%2C1437%2C0_0&invitationId=inv_c9d5f856-063d-4c4f-b575-b2b91ca37fcc
+https://lucid.app/documents/view/6396f511-1d3f-4eaf-beca-7e79b3a72b67
 
 ---
 
@@ -56,6 +56,8 @@ $ npm start
 
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+
+You can also view the demo in here: [My Dashboard-Fullstack(MERN)](https://admin-frontend-v6dm.onrender.com/dashboard)
 
 ---
 ### Author Info
