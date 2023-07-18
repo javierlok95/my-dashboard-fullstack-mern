@@ -59,7 +59,7 @@ mongoose
         // Product.insertMany(dataProduct);
         // ProductStat.insertMany(dataProductStat);
         // Transaction.insertMany(dataTransaction);
-        User.insertMany(dataUser);
+        //User.insertMany(dataUser);
 
     })
     .catch((error) => console.log(`${error} did not connect`));
